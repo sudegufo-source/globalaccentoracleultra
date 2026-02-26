@@ -1,0 +1,7 @@
+{
+  "name": "Global Accent Oracle Ultra",
+  "description": "Advanced AI-powered global accent recognition and improvement system using phonetic analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
